@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413613593282",
+    "project_id": "isplit-affb5",
+    "storage_bucket": "isplit-affb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413613593282:android:8cfbec252f16ec2df5615b",
+        "android_client_info": {
+          "package_name": "com.example.isplit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAkoYUCtcxmK3bJPZ5Zc2WKg8dZ6gdiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
